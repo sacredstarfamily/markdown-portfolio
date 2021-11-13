@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Logo](./D1CEA4A0-9BDE-454E-9E1B-8EA186DA6720.jpeg)
